@@ -1,4 +1,4 @@
-# fyp
+# Private Chat System with Large Language Models using Encrypted Text Interpretation by Artificial Intelligence
 
 This project aims to help Large Language models (LLMs) interpret encrypted text to enhance
 the security of communication between LLMs and users. A key challenge for this project is
